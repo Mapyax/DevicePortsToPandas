@@ -1,0 +1,99 @@
+Welcome to HOSTNAME!
+
+>show device hostname
+HOSTNAME
+
+>show device info
+Device: SUPER-PLC5000RTX-8
+Manufacturer: Horns and Hooves inc.
+Subscriber ports count: eight (8)
+Uplink ports count: one (1)
+Production date: 01-03-2024
+Valid until: 01-01-3000
+MAC-address: 00:11:22:33:44:55
+
+>show device port info
+Up-link port:
+    Uplink device: OLT-NET-GTR
+    Uplink ip: 218.65.98.155
+    Port type: SC-APC
+    Signal in: -19 Dbm
+    Signal out: -19.3 Dbm
+    Packets in: 324234 pkts
+    Packets out: 123244 pkts
+    Packets lost: 2133 prts
+Port 1:
+    Port type: SC-APC
+    Signal in: -19.3 Dbm
+    Signal out: -19.5 Dbm
+    downlink device: None
+Port 2:
+    Port type: SC-APC
+    Signal in: -19.3 Dbm
+    Signal out: -19.5 Dbm
+    downlink device: ONT-2673
+    downlink ip: 192.168.0.1
+    downlink signal: -24.4
+    Packets in: 67567345 pkts
+    Packets out: 32423423 pkts
+    Packets lost: 234234 prts
+Port 3:
+    Port type: SC-APC
+    Signal in: -19.3 Dbm
+    Signal out: -19.5 Dbm
+    downlink device: ONT-3872
+    downlink ip: 192.168.0.76
+    downlink signal: -25.8
+    Packets in: 192876 pkts
+    Packets out: 75633 pkts
+    Packets lost: 1243 prts
+Port 4:
+    Port type: SC-APC
+    Signal in: -19.3 Dbm
+    Signal out: -19.5 Dbm
+    downlink device: ONT-3872
+    downlink ip: 192.168.1.2
+    downlink signal: -23.1
+    Packets in: 9823 pkts
+    Packets out: 4211 pkts
+    Packets lost: 0 prts
+Port 5:
+    Port type: SC-UPC
+    Signal in: -19.3 Dbm
+    Signal out: -19.7 Dbm
+    downlink device: ONT-2673
+    downlink ip: 192.10.94.1
+    downlink signal: -20.6
+    Packets in: 823746 pkts
+    Packets out: 123123 pkts
+    Packets lost: 434332 prts
+Port 6:
+    Port type: SC-UPC
+    Signal in: -19.3 Dbm
+    Signal out: -19.7 Dbm
+    downlink device: None
+Port 7:
+    Port type: SC-UPC
+    Signal in: -19.3 Dbm
+    Signal out: -19.7 Dbm
+    downlink device: ONT-2673
+    downlink ip: 192.168.0.167
+    downlink signal: -19.9
+    Packets in: 3 pkts
+    Packets out: 2 pkts
+    Packets lost: 1 prts
+Port 8:
+    Port type: SC-UPC
+    Signal in: -19.3 Dbm
+    Signal out: -19.7 Dbm
+    downlink device: ONT-3872
+    downlink ip: 192.168.56.57
+    downlink signal: -20.2
+    Packets in: 9328746 pkts
+    Packets out: 1723434 pkts
+    Packets lost: 127635 prts
+
+>exit
+Have a nice day!
+
+Exit with code 0

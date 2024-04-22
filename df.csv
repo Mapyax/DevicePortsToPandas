@@ -1,0 +1,10 @@
+Hostname,Manufacturer,Port,Port type,Status port,Packets in,Packets out,Signal in,Signal out,Packets lost,MAC-address,IP
+HOSTNAME,Horns and Hooves inc.,Up-link port,SC-APC,Up,324234,123244,-19,-19.3,2133,00:11:22:33:44:55,218.65.98.155
+HOSTNAME,Horns and Hooves inc.,Port 1,SC-APC,Down,NaN,NaN,-19.3,-19.5,NaN,00:11:22:33:44:55,NaN
+HOSTNAME,Horns and Hooves inc.,Port 2,SC-APC,Up,67567345,32423423,-19.3,-19.5,234234,00:11:22:33:44:55,192.168.0.1
+HOSTNAME,Horns and Hooves inc.,Port 3,SC-APC,Up,192876,75633,-19.3,-19.5,1243,00:11:22:33:44:55,192.168.0.76
+HOSTNAME,Horns and Hooves inc.,Port 4,SC-APC,Up,9823,4211,-19.3,-19.5,0,00:11:22:33:44:55,192.168.1.2
+HOSTNAME,Horns and Hooves inc.,Port 5,SC-UPC,Up,823746,123123,-19.3,-19.7,434332,00:11:22:33:44:55,192.10.94.1
+HOSTNAME,Horns and Hooves inc.,Port 6,SC-UPC,Down,NaN,NaN,-19.3,-19.7,NaN,00:11:22:33:44:55,NaN
+HOSTNAME,Horns and Hooves inc.,Port 7,SC-UPC,Up,3,2,-19.3,-19.7,1,00:11:22:33:44:55,192.168.0.167
+HOSTNAME,Horns and Hooves inc.,Port 8,SC-UPC,Up,9328746,1723434,-19.3,-19.7,127635,00:11:22:33:44:55,192.168.56.57
